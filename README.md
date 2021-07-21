@@ -14,7 +14,7 @@
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emresolaaksu)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-sola-aksu-033504181/)
-[![Mail Badge](https://img.shields.io/badge/emresolaaksu@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emresolaaksu@hotmail.com)](mailto:emresolaaksu@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/emresolaaksu@hotmail.com-c14438?style=for-the-badge&logo=Hotmail&logoColor=white&link=mailto:emresolaaksu@hotmail.com)](mailto:emresolaaksu@hotmail.com)
 
 <!--
 **emresolaaksu/emresolaaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
