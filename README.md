@@ -2,8 +2,14 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+<img align="center" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emresolaaksu&theme=vue-dark&show_icons=true" />
+</details>
 
-<img align="center" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emresolaaksu&theme=blue-green&show_icons=true" />
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Emre's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresolaaksu" />
 
 </details>
 
